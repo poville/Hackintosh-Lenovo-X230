@@ -24,6 +24,7 @@ Hackintosh-Lenovo-X230
 | Board     | Lenovo 2306CTO           |
 | CPU       | Intel Core i5-3210M      |
 | SSD       | Toshiba TR 200(400GB)    |
+| Graphics  | Intel GMA HD 4000        |
 | Display   | LEN40E2(12.5'1366x768)   |
 | Network   | Intel 82579LM            |
 | WiFi      | Intel Wireless-N 2200    |
