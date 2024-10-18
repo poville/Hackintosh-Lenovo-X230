@@ -12,6 +12,7 @@ Hackintosh-Lenovo-X230
 | Monterey 12.7  | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac12.7">Here       |
 | Sonoma 14.0    | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac14.0">Here       |
 | Sonoma 14.4    | 0.9.9    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC099Mac14.4">Here       |
+| Sequoia 15.0.1 | 1.0.2    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC102Mac15.0.1">Here     |
 
 </details>
 
@@ -29,7 +30,7 @@ Hackintosh-Lenovo-X230
 | Display   | LEN40E2(12.5'1366x768)   |
 | Network   | Intel 82579LM            |
 | WiFi      | Intel Wireless-N 2200    |
-| BlueTooth | Broadcom                 |
+| BlueTooth | Broadcom 20702a1         |
 | Audio     | Realtek ALC269           |
 
 
