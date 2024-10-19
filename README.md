@@ -7,12 +7,12 @@ Hackintosh-Lenovo-X230
 <summary><strong> SUMMARY </strong></summary>
 <br>
 
-| MacOS          | OpenCore | Repo                                                                                     |
-| ---------------| -------- | ---------------------------------------------------------------------------------------- |
-| Monterey 12.7  | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac12.7">Here       |
-| Sonoma 14.0    | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac14.0">Here       |
-| Sonoma 14.4    | 0.9.9    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC099Mac14.4">Here       |
-| Sequoia 15.0.1 | 1.0.2    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC102Mac15.0.1">Here     |
+| MacOS          | OpenCore | Repo                                                                                     | Notice |
+| ---------------| -------- | ---------------------------------------------------------------------------------------- | ------ |
+| Monterey 12.7  | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac12.7">Here       |        |
+| Sonoma 14.0    | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac14.0">Here       |        |
+| Sonoma 14.4    | 0.9.9    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC099Mac14.4">Here       |        |
+| Sequoia 15.0.1 | 1.0.2    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC102Mac15.0.1">Here     | Use <a href="https://oss.simplehac.cn/d/HackintoshTools/OCLP-IntelWireless-2.1.0-Chinese.zip?sign=AQ1dUQAh3hrMKY82PzmApvHeaJe0SKxwH_PS4wBV3T0=:0">OpenCore-Legacy-Patcher(Intel Version)</a> to patch Wifi and Graphics |
 
 </details>
 
