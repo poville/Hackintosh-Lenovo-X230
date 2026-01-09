@@ -13,7 +13,7 @@ Hackintosh-Lenovo-X230
 | Sonoma 14.0    | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC095Mac14.0">Here       | 
 | Sonoma 14.4    | 0.9.9    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC099Mac14.4">Here       |  
 | Sequoia 15.0.1 | 1.0.2    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC102Mac15.0.1">Here     |
-
+| Tahoe 26.2 | 1.0.6    | <a href="https://github.com/poville/Hackintosh-Lenovo-X230/tree/OC106Mac26.2">Here     |
 </details>
 
 
